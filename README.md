@@ -1,5 +1,7 @@
 ## Running React on Repl.it
 
+A react website with an array of images. Users can click on image, which
+
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
 [Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
