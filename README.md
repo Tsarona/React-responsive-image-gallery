@@ -1,6 +1,6 @@
 ## Running React on Repl.it
 
-A react website with an array of images. Users can click on image, which
+A react website with an array of images. 
 
 Project link:https://responsivereact.netlify.app
 
